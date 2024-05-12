@@ -862,6 +862,21 @@ a {
 		width: 90%;
 		margin: auto;
 	}
+	.scheduling > h5 {
+		width: 100%;
+		text-align: center;
+	}
+
+	.price > p {
+		width: 100%;
+	}
+	.pricing-services-container > h3 {
+		font-size: 26px;
+		text-align: center;
+	}
+	.pricing-services-container > p {
+		width: 100%;
+	}
 	.pricing-inner-container {
 		flex-direction: column;
 	}
@@ -871,7 +886,9 @@ a {
 	.pricing-inner-second-div {
 		width: 100%;
 	}
-
+	.inner-container-review {
+		padding: 10px 10px;
+	}
 	.question-left,
 	.contact-heading,
 	.work-heading,
